@@ -100,7 +100,7 @@ Moreover, high-level abstraction frameworks enable better resource management an
 
 #
 
-> Alex: "*This high-level concept significantly reduces development time and lowers the barrier to entry.*"
+> Alex: "*This high-level concept significantly reduces development time and lowers the barriers to entry.*"
 
 #
 ### Related Links
