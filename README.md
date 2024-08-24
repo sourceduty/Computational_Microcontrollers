@@ -95,6 +95,8 @@ Another alternative is leveraging cloud computing for handling complex computati
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
+<br>
+[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
