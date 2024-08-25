@@ -82,7 +82,7 @@ Paving the Way for Future Innovations:
 
 As technology advances, the capabilities of computational microcontrollers will continue to grow, enabling new applications and innovations in fields like healthcare, automotive, and smart cities.
 
-<br>
+===========================================================================
 
 #### Additional Benefits of Computational Microcontrollers
 
