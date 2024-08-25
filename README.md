@@ -103,7 +103,6 @@ Moreover, high-level abstraction frameworks enable better resource management an
 
 Computational microcontrollers represent a significant evolution in embedded systems by combining the traditional control functions of microcontrollers with advanced computational capabilities. Here are the key concepts associated with computational microcontrollers:
 
-```
 1. Edge Computing
    - Process data near the source of generation.
    - Reduces latency and bandwidth usage.
@@ -145,7 +144,6 @@ Computational microcontrollers represent a significant evolution in embedded sys
 10. Future Trends
     - Enhanced AI capabilities and increased adoption.
     - Ongoing advancements in edge computing.
-```
 
 #
 
