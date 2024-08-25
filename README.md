@@ -42,43 +42,43 @@ To contribute to the validation of new scientific subjects, one typically needs 
 #
 ### Contributions of Computational Microcontrollers
 
-1. Enhanced Real-Time Processing:
+Enhanced Real-Time Processing:
 
 Computational microcontrollers enable real-time data processing and analysis directly at the source, reducing latency and improving response times. This is particularly important in applications like autonomous vehicles, industrial automation, and smart IoT devices.
 
-2. Edge Computing Capabilities:
+Edge Computing Capabilities:
 
 By processing data locally, computational microcontrollers reduce the need for constant communication with cloud servers. This minimizes bandwidth usage and enhances data privacy and security, making them ideal for IoT applications and remote monitoring systems.
 
-3. Power Efficiency:
+Power Efficiency:
 
 Despite their advanced computational capabilities, computational microcontrollers are designed to be power-efficient. They achieve this through specialized hardware accelerators and co-processors that handle specific tasks, optimizing power consumption for battery-operated and energy-constrained devices.
 
-4. Integration of AI and Machine Learning:
+Integration of AI and Machine Learning:
 
 Computational microcontrollers can perform AI inference tasks, enabling devices to learn and adapt to changing environments. This capability is useful in applications such as predictive maintenance, smart home devices, and personal health monitoring.
 
-5. Simplified Development and Deployment:
+Simplified Development and Deployment:
 
 With sophisticated software frameworks, computational microcontrollers offer a unified platform for both control and computation. This reduces the complexity of developing embedded systems, lowers costs, and accelerates time-to-market.
 
-6. Enhanced Signal Processing:
+Enhanced Signal Processing:
 
 These microcontrollers are equipped to handle advanced signal processing tasks, which are crucial in applications like digital communication, audio processing, and sensor data analysis.
 
-7. Versatility and Scalability:
+Versatility and Scalability:
 
 The ability to perform complex computations on-device allows computational microcontrollers to be used in a wide range of applications, from simple sensors to complex robotics, making them versatile and scalable solutions.
 
-8. Improved Reliability:
+Improved Reliability:
 
 By embedding computational capabilities directly within the device, the reliance on external systems is reduced, leading to improved reliability and reduced points of failure.
 
-9. Support for Secure Applications:
+Support for Secure Applications:
 
 Computational microcontrollers often include features for encryption and secure data processing, which are essential for applications involving sensitive information, such as financial transactions and personal data protection.
 
-10. Paving the Way for Future Innovations:
+Paving the Way for Future Innovations:
 
 As technology advances, the capabilities of computational microcontrollers will continue to grow, enabling new applications and innovations in fields like healthcare, automotive, and smart cities.
 
