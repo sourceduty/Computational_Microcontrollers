@@ -215,6 +215,8 @@ By focusing on Virtual Microcontroller Simulation Frameworks, this concept aims 
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 <br>
 [Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
+<br>
+[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
