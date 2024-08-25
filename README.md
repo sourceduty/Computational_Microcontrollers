@@ -150,10 +150,6 @@ Computational microcontrollers represent a significant evolution in embedded sys
 > Alex: "*This high-level concept significantly reduces development time and lowers the barriers to entry.*"
 
 #
-
-![Computational Microcontrollers](https://github.com/user-attachments/assets/571e760f-9942-4f64-8d46-d31cebaec90f)
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
