@@ -217,6 +217,8 @@ By focusing on Virtual Microcontroller Simulation Frameworks, this concept aims 
 [Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
 <br>
 [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
+<br>
+[CPLDs](https://github.com/sourceduty/CPLDs)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
